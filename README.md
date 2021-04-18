@@ -6,6 +6,3 @@ Would you like to support me?
 React Native Animated Carousel
 
 ![react native animated carousel](https://github.com/shahrajk/react-native-animated-carousel/blob/master/react-native-animated-carousel.gif)
-
-Special Thanks to 
-https://github.com/catalinmiron
